@@ -1,0 +1,8 @@
+name: kneekey
+dependencies:
+- python
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- sympy
